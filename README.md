@@ -1,7 +1,4 @@
 # LAMP-Stack
-Sure! Here’s a simple guide for creating a basic LAMP stack project, along with a sample README file for your GitHub portfolio.
-
-### Basic LAMP Stack Project
 
 **LAMP** stands for Linux, Apache, MySQL, and PHP. This stack is commonly used for web development.
 
